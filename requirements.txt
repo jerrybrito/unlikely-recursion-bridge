@@ -1,0 +1,2 @@
+# Requires: eternal-waiting
+# (Not available on PyPI)
